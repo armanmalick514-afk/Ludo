@@ -1,0 +1,6 @@
+{
+  "name": "Ludo",
+  "description": "Multiplayer Ludo with 2-4 player options, in-game score earnings, and points-based customizable dice exchange.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
